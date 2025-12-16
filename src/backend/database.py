@@ -166,13 +166,13 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into epic adventures, mysterious powers, and unforgettable heroes! Join fellow manga enthusiasts to discuss your favorite series, discover hidden gems, and experience the incredible world of Japanese storytelling.",
-        "schedule": "Tuesdays, 7:00 PM - 9:00 PM",
+        "schedule": "Tuesdays, 5:00 PM - 7:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "21:00"
+            "start_time": "17:00",
+            "end_time": "19:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
